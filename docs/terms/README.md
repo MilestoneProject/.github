@@ -2,9 +2,7 @@
 <div align="center">
 
 ![Milestone](/.github/assets/logo.svg)
-<h3>Your intelligent schedule manager</h3>
+<h3>서비스 약관 및 이용 조건</h3>
 
 <h1></h1>
-
-[Milestone 소개글 보러 가기](../docs/README.md)
 </div>

@@ -5,6 +5,4 @@
 <h3>Your intelligent schedule manager</h3>
 
 <h1></h1>
-
-[Milestone 소개글 보러 가기](../docs/README.md)
 </div>
