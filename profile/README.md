@@ -6,5 +6,5 @@
 
 <h1></h1>
 
-[Milestone 소개글 보러 가기](../docs/README.md)
+[Milestone 알아보기](../docs/README.md) | [베타 프로그램 참여](../docs/beta.md)
 </div>
