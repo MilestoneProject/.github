@@ -1,15 +1,17 @@
 <!-- suppress HtmlDeprecatedAttribute -->
 <div align="center">
 
-![Milestone](/.github/assets/logo.svg)
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilestoneProject/.github/refs/heads/main/.github/assets/logo-dark.svg">
+	<img src="https://raw.githubusercontent.com/MilestoneProject/.github/refs/heads/main/.github/assets/logo.svg">
+</picture>
+
 <p>커뮤니티 준수사항 (GitHub, ko)</p>
 <h6><sub>버전 1.0 (2025. 07. 14)</sub></h6>
 
 <h1></h1>
 
-[서비스 약관 및 이용 조건](https://milesto.ne.kr/terms)
-|
-[커뮤니티 활동지침](https://milesto.ne.kr/terms/community)
+[서비스 약관 및 이용 조건](https://milesto.ne.kr/terms) | [커뮤니티 활동지침](https://milesto.ne.kr/terms/community)
 </div>
 <br/>
 
@@ -122,5 +124,3 @@ Milestone과 마일스톤 커뮤니티 등 마일스톤에서 제공하는 모�
 다만 법적 의무를 제외하고 수집된 정보는 이용 목적을 달성한 이후 즉시 파기됩니다.
 자세한 내용은 [개인정보 처리방침](https://milesto.ne.kr/terms/privacy)을 참조하십시오.
 <p></p>
-
-<h6><sub>&copy; 2025 MilestoneProject. All Rights Reserved.</sub></h6>
